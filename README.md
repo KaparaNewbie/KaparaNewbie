@@ -7,7 +7,7 @@
 --->
 
 
-<div style="display: inline-block"><br>
+<div align="center" style="display: inline-block"><br>
  
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     &nbsp;-&nbsp;
@@ -24,7 +24,7 @@
 
 <br>
 
-<div align="left">
+<div align="center">
   <img height="120" src="https://github-readme-stats.vercel.app/api?username=KaparaNewbie&count_private=true&hide=stars&show_icons=true&theme=merko" />
 <!--   <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaparaNewbie&theme=merko&count_private=true&layout=default&exclude_repo=KaparaNewbie.github.io" /> -->
 </div>
