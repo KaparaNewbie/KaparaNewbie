@@ -6,11 +6,6 @@
 - 📫 How to reach me ...
 --->
 
-<div align="left">
-  <img height="120" src="https://github-readme-stats.vercel.app/api?username=KaparaNewbie&count_private=true&hide=stars&show_icons=true&theme=merko" />
-<!--   <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaparaNewbie&theme=merko&count_private=true&layout=default&exclude_repo=KaparaNewbie.github.io" /> -->
-</div>
-
 
 <div style="display: inline-block"><br>
  
@@ -26,6 +21,16 @@
   
   
 </div><br>
+
+<br>
+
+<div align="left">
+  <img height="120" src="https://github-readme-stats.vercel.app/api?username=KaparaNewbie&count_private=true&hide=stars&show_icons=true&theme=merko" />
+<!--   <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaparaNewbie&theme=merko&count_private=true&layout=default&exclude_repo=KaparaNewbie.github.io" /> -->
+</div>
+
+
+
 
 
 
